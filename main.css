@@ -1,0 +1,27 @@
+html {
+    background-color: white;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.name-tag {
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-family: Arial;
+
+}
+
+.name-area {
+    height: 45px;
+    background-color: white;
+    color: black;
+    margin: auto;
+    padding: 15px;
+    font-family: cursive;
+}
